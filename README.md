@@ -1,2 +1,2 @@
 # QRandomWalks
-Random walks and quantum versions of it.
+Random walks and quantum versions of it. Implemented using numpy and qiskit.
