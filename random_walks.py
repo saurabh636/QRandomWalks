@@ -1,3 +1,7 @@
+#Copyright Saurabh Srivastava, 2024
+#License LGPL
+#Email: saurabh636@yahoo.com
+
 import numpy as np
 import random
 import matplotlib.pyplot as plt
